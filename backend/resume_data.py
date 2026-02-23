@@ -9,7 +9,6 @@ RESUME = {
     "name": "Zubair Alam",
     "title": "Full Stack Developer",
     "email": "zubairalam9048@gmail.com",
-    "phone": "9012258306",
     "location": "Bengaluru, India",
     "linkedin": "https://www.linkedin.com/in/zubairalam1123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "github": "https://github.com/zubairalam7",
